@@ -1,0 +1,37 @@
+COOKIE_SECRET=gifchat
+KAKAO_ID= 18a92794ea42b77cf5a198bd6b01a2be
+
+# RDB
+SEQUELIZE_PASSWORD = elasticshock12
+SEQUELIZE_USERNAME= admin 
+SEQUELIZE_HOST=elasticshock-009.cnmgd1eiu1rn.ap-northeast-2.rds.amazonaws.com
+
+
+
+# MongoDB (DocumentDB)
+MONGO_ID = elasticshock
+MONGO_PASSWORD = elasticshock12
+
+
+
+# AWS-S3
+BUCKET_NAME = 009-elasticshock   # s3 bucket 이름
+AWS_SECRET_ACCESS_ID = AKIAZFEQRMP3WVNCIWUR
+AWS_SECRET_ACCESS_KEY = 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
+AWS_REGION = ap-northeast-2
+
+
+# # RDS
+# 마스터: admin
+# 비번: elasticshock12
+
+
+# documentDB
+# 마스터: elasticshock
+# 비번: elasticshock12
+
+
+# aws-RDS
+# RDS_USERNAME = admin 
+# RDS_PASSWORD = elasticshock12   # 비번
+# RDS_HOST = elasticshock-009.cnmgd1eiu1rn.ap-northeast-2.rds.amazonaws.com
